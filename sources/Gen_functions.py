@@ -58,7 +58,7 @@ class Functions:
         plt.show()
 
 def main():
-    TIEMPOS = 3
+    TIEMPOS = 2
     Functions(TIEMPOS).pink_noise_gen()
 
 if __name__ == "__main__":
