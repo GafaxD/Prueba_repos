@@ -1,8 +1,4 @@
 Esto nadamas es una prueba xD
-<<<<<<< HEAD
-Modificacion 2
-=======
 Modificacion 2
 Modificacion 3
 Modificacion 4
->>>>>>> 8609bc3 (mod4)
